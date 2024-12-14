@@ -207,66 +207,163 @@ function DressStyle() {
             }, void 0, false, {
                 fileName: "[project]/src/components/Dressstyle.tsx",
                 lineNumber: 7,
-                columnNumber: 14
+                columnNumber: 15
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                 className: "grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 sm:gap-6 md:gap-8 w-full max-w-[1200px]",
                 children: [
-                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
-                        src: "/grid-p1.png",
-                        alt: "Casual dress style",
-                        width: 407,
-                        height: 289,
-                        className: "col-span-1 w-full h-[190px] sm:h-[240px] md:h-[289px] rounded-[20px] object-cover hover:scale-105 transition-transform duration-300"
-                    }, void 0, false, {
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                        className: "relative col-span-1 w-full h-[290px] sm:h-[290px] md:h-[289px] rounded-[20px] transition-transform hover:scale-105 duration-300",
+                        children: [
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
+                                src: "/casual.png",
+                                alt: "Casual dress style",
+                                width: 407,
+                                height: 289,
+                                className: "rounded-[20px] "
+                            }, void 0, false, {
+                                fileName: "[project]/src/components/Dressstyle.tsx",
+                                lineNumber: 15,
+                                columnNumber: 19
+                            }, this),
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                className: "absolute bottom-[210px] left-[34px] w-[114px] h-[49px] opacity-100",
+                                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                    className: "font-satoshi text-[36px] font-bold leading-[48.6px] text-black",
+                                    children: "Casual"
+                                }, void 0, false, {
+                                    fileName: "[project]/src/components/Dressstyle.tsx",
+                                    lineNumber: 25,
+                                    columnNumber: 9
+                                }, this)
+                            }, void 0, false, {
+                                fileName: "[project]/src/components/Dressstyle.tsx",
+                                lineNumber: 24,
+                                columnNumber: 21
+                            }, this)
+                        ]
+                    }, void 0, true, {
                         fileName: "[project]/src/components/Dressstyle.tsx",
-                        lineNumber: 11,
-                        columnNumber: 18
+                        lineNumber: 14,
+                        columnNumber: 1
                     }, this),
-                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
-                        src: "/grid-p2.png",
-                        alt: "Formal dress style",
-                        width: 684,
-                        height: 289,
-                        className: "col-span-1 sm:col-span-2 w-full h-[190px] sm:h-[240px] md:h-[289px] rounded-[20px] object-cover hover:scale-105 transition-transform duration-300"
-                    }, void 0, false, {
-                        fileName: "[project]/src/components/Dressstyle.tsx",
-                        lineNumber: 18,
-                        columnNumber: 18
-                    }, this),
-                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
-                        src: "/grid-p3.png",
-                        alt: "Party dress style",
-                        width: 684,
-                        height: 289,
-                        className: "col-span-1 sm:col-span-2 w-full h-[190px] sm:h-[240px] md:h-[289px] rounded-[20px] object-cover hover:scale-105 transition-transform duration-300"
-                    }, void 0, false, {
-                        fileName: "[project]/src/components/Dressstyle.tsx",
-                        lineNumber: 25,
-                        columnNumber: 18
-                    }, this),
-                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
-                        src: "/grid-p4.png",
-                        alt: "Gym dress style",
-                        width: 407,
-                        height: 289,
-                        className: "col-span-1 w-full h-[190px] sm:h-[240px] md:h-[289px] rounded-[20px] object-cover hover:scale-105 transition-transform duration-300"
-                    }, void 0, false, {
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                        className: "relative col-span-1 sm:col-span-2 w-full h-[190px] sm:h-[240px] md:h-[289px] rounded-[20px] object-cover hover:scale-105 transition-transform duration-300",
+                        children: [
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
+                                src: "/formal.png",
+                                alt: "Formal dress style",
+                                width: 684,
+                                height: 289,
+                                className: "rounded-[20px] "
+                            }, void 0, false, {
+                                fileName: "[project]/src/components/Dressstyle.tsx",
+                                lineNumber: 36,
+                                columnNumber: 19
+                            }, this),
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                className: "absolute top-[25px] left-[36px] w-[116px] h-[49px] opacity-100 text-left",
+                                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                    className: "font-satoshi text-[36px] font-bold leading-[48.6px] font-white;   ",
+                                    children: "Formal"
+                                }, void 0, false, {
+                                    fileName: "[project]/src/components/Dressstyle.tsx",
+                                    lineNumber: 45,
+                                    columnNumber: 9
+                                }, this)
+                            }, void 0, false, {
+                                fileName: "[project]/src/components/Dressstyle.tsx",
+                                lineNumber: 44,
+                                columnNumber: 20
+                            }, this)
+                        ]
+                    }, void 0, true, {
                         fileName: "[project]/src/components/Dressstyle.tsx",
                         lineNumber: 32,
-                        columnNumber: 18
+                        columnNumber: 19
+                    }, this),
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                        className: "relative col-span-1 sm:col-span-2 w-full h-[190px] sm:h-[240px] md:h-[289px] rounded-[20px] object-cover hover:scale-105 transition-transform duration-300",
+                        children: [
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
+                                src: "/style.png",
+                                alt: "Party dress style",
+                                width: 684,
+                                height: 289,
+                                className: "col-span-1 sm:col-span-2 w-full h-[190px] sm:h-[240px] md:h-[289px] rounded-[20px] object-cover hover:scale-105 transition-transform duration-300"
+                            }, void 0, false, {
+                                fileName: "[project]/src/components/Dressstyle.tsx",
+                                lineNumber: 56,
+                                columnNumber: 19
+                            }, this),
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                className: "absolute top-[25px] left-[36px] w-[116px] h-[49px] opacity-100 text-left",
+                                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                    className: "font-satoshi text-[36px] font-bold leading-[48.6px] font-white;   ",
+                                    children: "Formal"
+                                }, void 0, false, {
+                                    fileName: "[project]/src/components/Dressstyle.tsx",
+                                    lineNumber: 65,
+                                    columnNumber: 9
+                                }, this)
+                            }, void 0, false, {
+                                fileName: "[project]/src/components/Dressstyle.tsx",
+                                lineNumber: 64,
+                                columnNumber: 9
+                            }, this)
+                        ]
+                    }, void 0, true, {
+                        fileName: "[project]/src/components/Dressstyle.tsx",
+                        lineNumber: 54,
+                        columnNumber: 1
+                    }, this),
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                        className: "relative col-span-1 w-full h-[290px] sm:h-[290px] md:h-[289px] rounded-[20px] transition-transform hover:scale-105 duration-300",
+                        children: [
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
+                                src: "/gym.png",
+                                alt: "Gym dress style",
+                                width: 407,
+                                height: 289,
+                                //   className="col-span-1 w-full h-[190px] sm:h-[240px] md:h-[289px] rounded-[20px] object-cover hover:scale-105 transition-transform duration-300"
+                                className: "col-span-1 w-full h-[290px] sm:h-[290px] md:h-[289px] rounded-[20px] transition-tranform hover:scale-105 duration-300"
+                            }, void 0, false, {
+                                fileName: "[project]/src/components/Dressstyle.tsx",
+                                lineNumber: 77,
+                                columnNumber: 19
+                            }, this),
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                className: "absolute bottom-[210px] left-[34px] w-[114px] h-[49px] opacity-100",
+                                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                    className: "font-satoshi text-[36px] font-bold leading-[48.6px] text-black",
+                                    children: "Gym"
+                                }, void 0, false, {
+                                    fileName: "[project]/src/components/Dressstyle.tsx",
+                                    lineNumber: 86,
+                                    columnNumber: 9
+                                }, this)
+                            }, void 0, false, {
+                                fileName: "[project]/src/components/Dressstyle.tsx",
+                                lineNumber: 85,
+                                columnNumber: 21
+                            }, this)
+                        ]
+                    }, void 0, true, {
+                        fileName: "[project]/src/components/Dressstyle.tsx",
+                        lineNumber: 75,
+                        columnNumber: 19
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/components/Dressstyle.tsx",
-                lineNumber: 10,
-                columnNumber: 14
+                lineNumber: 11,
+                columnNumber: 15
             }, this)
         ]
     }, void 0, true, {
         fileName: "[project]/src/components/Dressstyle.tsx",
         lineNumber: 6,
-        columnNumber: 10
+        columnNumber: 11
     }, this);
 }
 }}),
@@ -713,12 +810,12 @@ function Home() {
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$Hero$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {}, void 0, false, {
                 fileName: "[project]/src/app/page.tsx",
                 lineNumber: 13,
-                columnNumber: 3
+                columnNumber: 4
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$Herobutton$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {}, void 0, false, {
                 fileName: "[project]/src/app/page.tsx",
                 lineNumber: 15,
-                columnNumber: 3
+                columnNumber: 4
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                 className: "md:px-[100px] ",
@@ -726,28 +823,28 @@ function Home() {
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$Arrival$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {}, void 0, false, {
                         fileName: "[project]/src/app/page.tsx",
                         lineNumber: 17,
-                        columnNumber: 3
+                        columnNumber: 4
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$Selling$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {}, void 0, false, {
                         fileName: "[project]/src/app/page.tsx",
                         lineNumber: 18,
-                        columnNumber: 3
+                        columnNumber: 4
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$Dressstyle$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {}, void 0, false, {
                         fileName: "[project]/src/app/page.tsx",
                         lineNumber: 19,
-                        columnNumber: 3
+                        columnNumber: 4
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$Happycustomer$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {}, void 0, false, {
                         fileName: "[project]/src/app/page.tsx",
                         lineNumber: 20,
-                        columnNumber: 3
+                        columnNumber: 4
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/app/page.tsx",
                 lineNumber: 16,
-                columnNumber: 3
+                columnNumber: 4
             }, this)
         ]
     }, void 0, true);

@@ -17,7 +17,7 @@ export default function NewsLetter() {
             <input
               type="email"
               className="w-full pl-10 pr-4 py-1 rounded-md border-none text-sm"
-              placeholder="Enter your email"
+              placeholder="Enter your email address"
             />
           </div>
 
